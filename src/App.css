@@ -1,0 +1,15 @@
+
+.app {
+  height: 100vh;
+  width: 100%;
+}
+
+.map-marker {
+  background-color: #ff0000;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 5px;
+  border-radius: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
